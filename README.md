@@ -27,9 +27,7 @@ Payments can be made through:
 - Token swaps
 - Direct payments
 
-## Demo Video 🎥
 
-Experience Request-Ease in action by watching our [demo video](https://youtu.be/wjhLFYQTIpc).
 
 ## Tech Stack 🧑🏼‍💻
 
